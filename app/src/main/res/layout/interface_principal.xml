@@ -7,18 +7,6 @@
     tools:context="com.david.p1.projetonovo.Principal">
 
 
-    <ListView
-        android:layout_width="368dp"
-        android:layout_height="0dp"
-        tools:layout_editor_absoluteY="0dp"
-        tools:layout_editor_absoluteX="8dp">
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/name"
-            />
-
-    </ListView>
+   <!--teste-->
 
 </android.support.constraint.ConstraintLayout>
